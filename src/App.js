@@ -23,7 +23,7 @@ function App() {
               // yoyo:Infinity,
               repeat:Infinity,
               ease:'easeInOut',
-              duration:2
+              duration:1.6
             }
           }}
         >

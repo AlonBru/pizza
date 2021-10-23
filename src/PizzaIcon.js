@@ -8,8 +8,8 @@ function SvgPizza(props) {
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 180 200"
-        height="160px"
-        width="160px"
+        height="300px"
+        width="300px"
         {...props}
       >
         <g // BG

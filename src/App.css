@@ -14,7 +14,7 @@
   overflow: hidden;
 }
 .pizza-icon{
-  height: 140px;
+  height: 260px;
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -27,6 +27,7 @@
 }
 h1{
   margin:0;
+  font-size: 3em;
 }
 
 .App-link {
