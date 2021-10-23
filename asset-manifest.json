@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pizza/static/css/main.aa1664bf.chunk.css",
-    "main.js": "/pizza/static/js/main.105074e5.chunk.js",
-    "main.js.map": "/pizza/static/js/main.105074e5.chunk.js.map",
+    "main.css": "/pizza/static/css/main.6158a40a.chunk.css",
+    "main.js": "/pizza/static/js/main.0b905263.chunk.js",
+    "main.js.map": "/pizza/static/js/main.0b905263.chunk.js.map",
     "runtime-main.js": "/pizza/static/js/runtime-main.26d3d8a4.js",
     "runtime-main.js.map": "/pizza/static/js/runtime-main.26d3d8a4.js.map",
     "static/js/2.1855bb28.chunk.js": "/pizza/static/js/2.1855bb28.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.5dd7faad.chunk.js": "/pizza/static/js/3.5dd7faad.chunk.js",
     "static/js/3.5dd7faad.chunk.js.map": "/pizza/static/js/3.5dd7faad.chunk.js.map",
     "index.html": "/pizza/index.html",
-    "static/css/main.aa1664bf.chunk.css.map": "/pizza/static/css/main.aa1664bf.chunk.css.map",
+    "static/css/main.6158a40a.chunk.css.map": "/pizza/static/css/main.6158a40a.chunk.css.map",
     "static/js/2.1855bb28.chunk.js.LICENSE.txt": "/pizza/static/js/2.1855bb28.chunk.js.LICENSE.txt",
     "static/media/calendar.859b4b32.jpg": "/pizza/static/media/calendar.859b4b32.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.26d3d8a4.js",
     "static/js/2.1855bb28.chunk.js",
-    "static/css/main.aa1664bf.chunk.css",
-    "static/js/main.105074e5.chunk.js"
+    "static/css/main.6158a40a.chunk.css",
+    "static/js/main.0b905263.chunk.js"
   ]
 }
