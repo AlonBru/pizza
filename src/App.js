@@ -27,9 +27,13 @@ function App() {
             }
           }}
         >
-          - פיצה -
+          - ערב פיצות  -
         </motion.h1>
-          יום ראשון, שעה שש
+          <h2>
+            שכבת ראם
+          </h2>
+          יום ראשון, שעה שש<br/>
+          בואו רעבים! 
         <a
           className="App-link"
           href={ics(event)}
